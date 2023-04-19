@@ -4,10 +4,11 @@
 
 # Metawork Hotel Simulator
 
-![Github All Releases](https://github.com/morgandusty/Metawork-hotel-simulator/releases)
-![GitHub release](https://github.com/morgandusty/Metawork-hotel-simulator/releases)
-![✨ Рассказать о баге](https://github.com/morgandusty/Metawork-hotel-simulator/issues/new?assignees=&labels=&template=отчет-о-баге.md&title=)
-![🎓 Обсуждения](https://github.com/morgandusty/Metawork-hotel-simulator/discussions/1)
+
+[Все версии](https://github.com/morgandusty/Metawork-hotel-simulator/releases)
+[Актуальная версия](https://github.com/morgandusty/Metawork-hotel-simulator/releases)
+[✨ Рассказать о баге](https://github.com/morgandusty/Metawork-hotel-simulator/issues/new?assignees=&labels=&template=отчет-о-баге.md&title=)
+[🎓 Обсуждения](https://github.com/morgandusty/Metawork-hotel-simulator/discussions/1)
 
 Данный проект находится на ранней версии, обо всех недочетах вы можете нам сообщать по ветке выше.
 
